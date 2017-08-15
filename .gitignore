@@ -1,9 +1,0 @@
-# Environment docker file (contains passwords, settings, etc)
-env
-docker.properties
-
-# Block custom scripts
-01*
-02*
-03*
-04*
